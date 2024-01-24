@@ -1,0 +1,54 @@
+/* JobProfiles.css */
+
+.job-details{
+    text-align: center;
+    /* color: red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.job-profiles-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .filter-input {
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  .job-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .job-item {
+    width: 300px;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .job-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .job-details {
+    text-align: center;
+  }
+  

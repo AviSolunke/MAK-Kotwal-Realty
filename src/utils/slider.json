@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Kanakia Paris",
+      "price": "47,043",
+      "detail": "Bandra Kurla Complex-BKC",
+      "image": "./Kanakia-Paris-Elevation.jpg"
+    },
+    {
+      "name": "Celestia Spaces",
+      "price": "66,353",
+      "detail": "Sewri",
+      "image": "./Celestia-Spaces-Elevation.jpg"
+    },
+    {
+      "name": "Four Seasons ",
+      "price": "35,853",
+      "detail": "Worli",
+      "image": "./Four-Seasons-Residences-Elevation.jpg"
+    },
+    {
+      "name": "Kingston Tower",
+      "price": "47,043",
+      "detail": "Parel",
+      "image": "./kingston_tower.jpg"
+    },
+    {
+      "name": "Piramal Mahalaxmi",
+      "price": "66,353",
+      "detail": "Mahalaxmi",
+      "image": "./piramal-mahalaxmi.jpg"
+    },
+    {
+      "name": "Canary Farms",
+      "price": "35,853",
+      "detail": "Lonavla",
+      "image": "./canary-farms-mulshi.jpg"
+    }
+  ]

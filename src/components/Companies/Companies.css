@@ -1,0 +1,48 @@
+.c-container1{
+    justify-content: space-around;
+    gap: 1rem;
+    margin-top: -1.5rem;
+    display: inline-block;
+    animation: marquee-animation 10s linear infinite; /* Adjust the duration as needed */
+}
+@keyframes marquee-animation {
+    0% {
+      transform: translateX(100%);
+    }
+  
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+.c-container1 img{
+    width: 9rem;
+    margin-right: 9rem;
+}  
+.r-head1{
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+
+.c-container1>img{
+    width: 9rem;
+}
+
+@media (max-width: 640px){
+    .r-head1{
+       align-items: center ;
+    }
+    .c-container1>img{
+        width: 7rem;
+    }
+    .c-container1{
+        justify-content: space-around;
+        gap: 0.2rem;
+        margin-top: -1.5rem;
+        display: flex;
+        animation: none;
+        flex-direction: column;
+        align-content: flex-end;
+        
+    }
+}
